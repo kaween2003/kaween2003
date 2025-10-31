@@ -4,7 +4,7 @@
   I'm a Computer Engineering undergraduate at the Open University of Sri Lanka.
 </h3>
 
-- ⚙ I'm passionate about *FPGA, **IC & Chip Design, **VLSI Design, **PCB Design* and *Embedded Systems*  
+- ⚙ I'm passionate about **FPGA**, **IC & Chip Design**, **VLSI Design**, **PCB Design** and **Embedded Systems**  
 - 📫 How to reach me: [kaween200308310405@gmail.com](mailto:kaween200308310405@gmail.com)
 
 ---
