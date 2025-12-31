@@ -15,7 +15,7 @@
 - ⚙️ Interested in **FPGA**, **ASIC / IC Design**, **VLSI**, **PCB Design**, and **Embedded Systems**
 - 🔬 Hands-on experience with **RTL design, ASIC flows, and digital systems**
 - 🏛️ **IESL Student Member**
-- 📡 **IEEE Student Member**
+- 📡 **IEEE Member**
 
 📫 **Contact:**  
 [kaween200308310405@gmail.com](mailto:kaween200308310405@gmail.com)
