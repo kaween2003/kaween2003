@@ -1,27 +1,62 @@
 <h1 align="center">Hi 👋, I'm Kaween Newmal</h1>
 
-<h3 align="center" style="font-size: 24px;">
-  I'm a Computer Engineering undergraduate at the Open University of Sri Lanka.
+<h3 align="center">
+  Computer Engineering Undergraduate | FPGA & ASIC Design Enthusiast
 </h3>
 
-- ⚙ I'm passionate about **FPGA**, **IC & Chip Design**, **VLSI Design**, **PCB Design** and **Embedded Systems**  
-- 📫 How to reach me: [kaween200308310405@gmail.com](mailto:kaween200308310405@gmail.com)
+<p align="center">
+  Open University of Sri Lanka
+</p>
 
 ---
 
-### 🛠 Languages and Tools:
+### 👨‍💻 About Me
+- 🎓 Computer Engineering undergraduate at the **Open University of Sri Lanka**
+- ⚙️ Interested in **FPGA**, **ASIC / IC Design**, **VLSI**, **PCB Design**, and **Embedded Systems**
+- 🔬 Hands-on experience with **RTL design, ASIC flows, and digital systems**
+- 🏛️ **IESL Student Member**
+- 📡 **IEEE Student Member**
+
+📫 **Contact:**  
+[kaween200308310405@gmail.com](mailto:kaween200308310405@gmail.com)
+
+---
+
+### 🛠️ Languages & Tools
 
 <p align="left">
+  <!-- Editors & Core Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/>
+
+  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB"/>
-<!--   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/altium.svg" height="40" alt="Altium Designer"/> -->
- 
-<!--   <img src="https://raw.githubusercontent.com/kaween2003/assets/main/stm32cubeide.png" height="40" alt="STM32CubeIDE"/>
-  <img src="https://raw.githubusercontent.com/kaween2003/assets/main/platformio.png" height="40" alt="PlatformIO"/>
-  <img src="https://raw.githubusercontent.com/kaween2003/assets/main/solidworks.png" height="40" alt="SolidWorks"/> -->
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+
+  <!-- HDL -->
+  <img src="https://img.shields.io/badge/SystemVerilog-FF6F00?style=for-the-badge&logo=verilog&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Verilog-8E44AD?style=for-the-badge&logo=verilog&logoColor=white" height="28"/>
+
+  <!-- Assembly & Architecture -->
+  <img src="https://img.shields.io/badge/Assembly-808080?style=for-the-badge&logo=assemblyscript&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" height="28"/>
+
+  <!-- ASIC / Physical Design Tools -->
+  <img src="https://img.shields.io/badge/OpenROAD-0A1A2F?style=for-the-badge&logo=openroad&logoColor=white" height="28"/>
 </p>
+
+---
+
+### 🔧 Technical Interests
+- RTL Design (SystemVerilog / Verilog)
+- RISC-V Architecture & Computer Architecture
+- FPGA & ASIC Design Flow (RTL → GDSII)
+- Digital Logic & Timing Analysis
+- Embedded Systems & Low-Level Programming
+- PCB Design & Hardware Prototyping
+
+---
+
+⭐ *Explore my repositories for projects in ASIC design, RISC-V processors, and digital systems.*
