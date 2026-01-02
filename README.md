@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Open University of Sri Lanka
+ The Open University of Sri Lanka
 </p>
 
 ---
